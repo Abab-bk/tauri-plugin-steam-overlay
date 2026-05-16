@@ -1,9 +1,10 @@
 [package]
 name = "tauri-plugin-steam-overlay"
 version = "0.1.0"
-authors = [ "You" ]
-description = ""
+authors = [ "qwook" ]
+description = "Creates a surface for steam overlay to display on."
 edition = "2021"
+license = "Apache-2.0 OR MIT"
 rust-version = "1.77.2"
 exclude = ["/examples", "/dist-js", "/guest-js", "/node_modules"]
 links = "tauri-plugin-steam-overlay"
