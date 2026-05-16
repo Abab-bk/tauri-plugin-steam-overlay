@@ -1,6 +1,6 @@
 [package]
 name = "tauri-plugin-steam-overlay"
-version = "0.1.0"
+version = "0.1.1"
 authors = [ "qwook" ]
 description = "Creates a surface for steam overlay to display on."
 edition = "2021"
